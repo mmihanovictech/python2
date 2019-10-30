@@ -43,9 +43,9 @@ def InsertHours(sheet, hours):
 # inputFileName = 'C:\\Python\\Projects\\Epics\\Shanks\\NLS Invoice\\SHAO-3 - 17042019.xlsx'
 outputFileNameTemplate = 'epic invoice calc template.xlsx'
 
-shanksNAGPath = 'C:\\Python\\Projects\\Epics\\Shanks2\\NAG Invoice 2'
-shanksNLSPath = 'C:\\Python\\Projects\\Epics\\Shanks2\\NLS Invoice 2'
-steakholdersPath = 'C:\\Python\\Projects\\Epics\\Steakholders2'
+shanksNAGPath = 'C:\\Python\\Projects\\Python2\\Shanks2\\NAG Invoice 2'
+shanksNLSPath = 'C:\\Python\\Projects\\Python2\\Shanks2\\NLS Invoice 2'
+steakholdersPath = 'C:\\Python\\Projects\\Python2\\Steakholders2'
 itmsPath = ''
 
 #get input file names
