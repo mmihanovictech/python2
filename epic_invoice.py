@@ -40,7 +40,6 @@ def InsertHours(sheet, hours):
 				print (str(epicHours[nameCell.value]) + ' hours for:' + nameCell.value)
 
 
-# inputFileName = 'C:\\Python\\Projects\\Epics\\Shanks\\NLS Invoice\\SHAO-3 - 17042019.xlsx'
 outputFileNameTemplate = 'epic invoice calc template.xlsx'
 
 shanksNAGPath = 'C:\\Python\\Projects\\Python2\\Shanks2\\NAG Invoice 2'
